@@ -12,16 +12,12 @@ goal(m, p = 2, g = 1e+06)
 \item{p}{daily percentage profit - default: 2}
 
 \item{g}{goal, default 1 million}
-
-\item{d}{days of trading}
 }
 \description{
 These functions will make you rich
 goal: how many days to reach your goal
-days: how much money after x days
 }
 \examples{
 goal(5000,2,100000)
-days(100,2,5000)
 }
 \keyword{money}
