@@ -5,7 +5,7 @@
 #' @param b viewing distance
 #' @keywords viewing angle
 #' @export
-#' @examples 
+#' @examples
 #' vangle(10,150)
 
 vangle <- function(a, b){
